@@ -18,18 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kαθηγητής φυσικής και συγγραφέας βοηθημάτων φυσικής για το λύκειο.
+bio: Kαθηγητής φυσικής και συγγραφέας βιβλίων φυσικής για το λύκειο.
 
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+# - Εκπαιδευτική ψυχολογία
+# - 
+# -
 
 education:
   courses:
+  - course: MSc in Educational Psychology
+    institution: University of Nicossia
+    year: 2019 - Σήμερα
   - course: MSc in Digital Learning
     institution: University of Edinburgh
     year: 2016
+  - course: BSc in Physics
+    institution: University of Ioannina
+    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,4 +68,4 @@ email: "physiart@gmail.com"
 # - Visitors
 ---
 
-Ο Γιώργος Παναγιωτακόπουλος είναι καθηγητής φυσικής και συγγραφέας βοηθημάτων φυσικής για το λύκειο.
+Ο Γιώργος Παναγιωτακόπουλος είναι καθηγητής φυσικής και συγγραφέας βιβλίων φυσικής για το λύκειο.

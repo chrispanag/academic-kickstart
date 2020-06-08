@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "**Διαδικτυακό πρόγραμμα προετοιμασίας για την Φυσική των Πανελληνίων**."
-  content = "Για τους μαθητές της Β' Λυκείου, με τον φυσικό και συγγραφέα βοηθημάτων, **Γιώργο Παναγιωτακόπουλο**."
+  content = "Για τους μαθητές της Β' Λυκείου, με τον φυσικό και συγγραφέα, **Γιώργο Παναγιωτακόπουλο**."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
