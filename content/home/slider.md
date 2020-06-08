@@ -16,9 +16,9 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Διαδικτυακό πρόγραμμα προετοιμασίας για την Φυσική των πανελληνίων."
-  content = "Με το συγγραφέα Γιώργο Παναγιωτακόπουλο."
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = "**Διαδικτυακό πρόγραμμα προετοιμασίας για την Φυσική των Πανελληνίων**."
+  content = "Για τους μαθητές της Β' Λυκείου, με τον φυσικό και συγγραφέα βοηθημάτων, **Γιώργο Παναγιωτακόπουλο**."
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -29,36 +29,36 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Δηλώση ενδιαφέροντος"
-  cta_url = "#contact"
+  cta_label = "Δήλωση ενδιαφέροντος"
+  cta_url = "#form"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 
 [[item]]
   title = "Ολοκληρωμένο πρόγραμμα σύγχρονης και ασύγχρονης εκπαίδευσης."
   content = "Με έναν συνδυασμό ζωντανών διαδραστικών διαλέξεων και συνοδευτική εκπαιδευτική πλατφόρμα."
-  align = "left"
+  align = "right"
 
   overlay_color = "#3f51b0"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label = "Δηλώση ενδιαφέροντος"
-  cta_url = "#contact"
+  cta_label = "Δήλωση ενδιαφέροντος"
+  cta_url = "#form"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 
 [[item]]
   title = "Με τις πλέον σύγχρονες πρακτικές για αποδοτική μάθηση."
   content = "Προσαρμοσμένες πλήρως στο ηλεκτρονικό περιβάλλον."
-  align = "left"
+  align = "right"
 
   overlay_color = "#3f51b0"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label = "Δηλώση ενδιαφέροντος"
-  cta_url = "#contact"
+  cta_label = "Δήλωση ενδιαφέροντος"
+  cta_url = "#form"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 +++
