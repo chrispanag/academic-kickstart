@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Επικοινωνία"
-subtitle = "Επικοινωνήστε με τον καθηγητή του προγράμματος Γιώργο Παναγιωτακόπουλο."
+subtitle = "Επικοινωνήστε με τον καθηγητή του προγράμματος, Γιώργο Παναγιωτακόπουλο."
 
 # Automatically link email and phone?
 autolink = true
