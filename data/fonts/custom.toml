@@ -1,0 +1,14 @@
+# The Native Font Theme provides optimum text rendering on every device and OS.
+# Note that the native font families are automatically populated by Academic.
+
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "Roboto|Roboto+Condensed"
+
+# Font families
+heading_font = "Roboto Regular"
+body_font = "Roboto Regular"
+nav_font = "Roboto Condensed"
+mono_font = "Roboto Regular"
