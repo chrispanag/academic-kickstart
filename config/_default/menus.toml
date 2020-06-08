@@ -16,7 +16,12 @@
 [[main]]
   name = "Συχνές ερωτήσεις"
   url = "/faq"
-  weight = 60
+  weight = 30
+
+[[main]]
+  name = "Ιστολόγιο"
+  url = "https://physiart.com"
+  weight = 40
 
 [[main]]
   name = "Επικοινωνία"

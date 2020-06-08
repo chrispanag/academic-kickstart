@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Επικοινωνία"
+subtitle = "Επικοινωνήστε με τον καθηγητή του προγράμματος Γιώργο Παναγιωτακόπουλο."
 
 # Automatically link email and phone?
 autolink = true
@@ -18,3 +18,7 @@ autolink = true
 email_form = 0
 +++
 
+Στην ενότητα [**Συχνές Ερωτήσεις**](/faq) θα βρείτε πολλές διευκρινήσεις για τα ηλεκτρονικά μαθήματα φυσικής. 
+
+
+Αν έχετε επιπλέον απορίες/προβληματισμούς, μη διστάσετε να επικοινωνήσετε με τον κ. Παναγιωτακόπουλο.
