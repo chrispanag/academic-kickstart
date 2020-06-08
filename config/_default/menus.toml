@@ -4,27 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "Αρχική"
+  url = "#slider"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Βιογραφικό"
+  url = "#about"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "Συχνές ερωτήσεις"
+  url = "/faq"
+  weight = 60
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
+  name = "Επικοινωνία"
   url = "#contact"
   weight = 60
 
