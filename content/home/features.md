@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Τι περιλαμβάνεται;"
+subtitle = "Ο μαθητής, σε όλη τη διάρκεια του προγράμματος, θα έχει πρόσβαση σε ένα πλήρες περιβάλλον ηλεκτρονικής μάθησης."
 
 # Showcase personal skills or business features.
 # 
@@ -18,13 +18,13 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "Ζωντανές διαλέξεις"
-  description = "**3 ώρες ζωντανών διαλέξεων την εβδομάδα** μέσω της πλατφόρμας [WebEx](https://www.webex.com)."
+  description = "**3 ώρες εξ αποστάσεως, ζωντανών διαλέξεων, την εβδομάδα** μέσω της πλατφόρμας [WebEx](https://www.webex.com)."
   
 [[feature]]
   icon = "sitemap"
   icon_pack = "fas"
   name = "Ηλεκτρονική πλατφόρμα"
-  description = "Πλήρης εκπαιδευτική πλατφόρμα ([Moodle](https://moodle.org)) με **quiz**, **εκπαιδευτικό υλικό**, **συνοδευτικά βίντεο** και **φόρουμ επικοινωνίας**."  
+  description = "Πλήρης εκπαιδευτική πλατφόρμα ([Moodle](https://moodle.org)), ασύγχρονης εκπαίδευσης, με **quiz**, **εκπαιδευτικό υλικό**, **συνοδευτικά βίντεο** και **φόρουμ επικοινωνίας**."  
   
 [[feature]]
   icon = "check-square"
@@ -44,6 +44,12 @@ subtitle = ""
   name = "Σεμινάρια αποδοτικής μάθησης & διαχείρισης χρόνου"
   description = "**Περιλαμβάνονται στο πρόγραμμα ειδικά σεμινάρια** σωστών πρακτικών για την αποδοτικότερη μάθηση και τη διαχείριση του χρόνου."
 
+[[feature]]
+  icon = "hands-helping"
+  icon_pack = "fas"
+  name = "Προσωπική επικοινωνία με τον καθηγητή."
+  description = "Οι μαθητές μπορούν να επικοινωνήσουν ανά πάσα στιγμή με τον καθηγητή. Επιπλέον, περιλαμβάνεται **συχνή ενημέρωση των γονέων** για την πρόοδο του μαθητή."
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
@@ -60,3 +66,6 @@ subtitle = ""
 #  description = "90%"
 
 +++
+
+</br>
+</br>
