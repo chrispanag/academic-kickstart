@@ -35,7 +35,7 @@
 
 [[main_right]]
   name = "Είσοδος Μαθητή"
-  pre = "<span class='btn btn-primary'><i class='fas fa-sign-in-alt'></i> "
+  pre = "<span class='btn btn-primary'><i class='fas fa-sign-in-alt'></i>&nbsp;"
   url = "https://moodle.physiart.com"
   post = "</span>"
   weight = 50
