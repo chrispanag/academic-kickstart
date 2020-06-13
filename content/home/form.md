@@ -11,4 +11,6 @@ subtitle = "Δηλώστε το ενδιαφέρον σας για τα ηλεκ
 
 Με τη συμπλήρωση της φόρμας o καθηγητής **θα επικοινωνήσει μαζί σας για τα επόμενα βήματα**. Στο μεταξύ, μπορείτε να διαβάσετε τις [συχνές ερωτήσεις](faq).
 
-{{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSdYIA-NK99aRlEjaqq0-kMi3ZsU8CqsQilFUo0uNRLoZkT7CQ/viewform?embedded=true" >}}
+<div class="responsive-wrap">
+<iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSdYIA-NK99aRlEjaqq0-kMi3ZsU8CqsQilFUo0uNRLoZkT7CQ/viewform?embedded=true" width="640" height="1080" frameborder="0" marginheight="0" marginwidth="0">Φόρτωση...</iframe>
+</div>
