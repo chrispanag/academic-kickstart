@@ -8,12 +8,6 @@ weight = 10  # Order that this section will appear.
 title = "Τι περιλαμβάνεται;"
 subtitle = "Ο μαθητής, σε όλη τη διάρκεια του προγράμματος, θα έχει πρόσβαση σε ένα πλήρες περιβάλλον ηλεκτρονικής μάθησης."
 
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
 [[feature]]
   icon = "users"
   icon_pack = "fas"

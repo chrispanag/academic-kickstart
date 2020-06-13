@@ -28,9 +28,9 @@ bio: Kαθηγητής φυσικής και συγγραφέας βιβλίων
 education:
   courses:
   - course: MSc in Educational Psychology
-    institution: University of Nicossia
+    institution: University of Nicosia
     year: 2019 - Σήμερα
-  - course: MSc in Digital Learning
+  - course: MSc in Digital Education
     institution: University of Edinburgh
     year: 2017
   - course: BSc in Physics
