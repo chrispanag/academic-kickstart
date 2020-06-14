@@ -41,7 +41,7 @@ height = "calc(100vh - 70px)"
 
   overlay_color = "#3f51b0"  # An HTML color value.
   overlay_img = "Eksofillo_04.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   cta_label = "Δήλωση ενδιαφέροντος"
   cta_url = "#form"
