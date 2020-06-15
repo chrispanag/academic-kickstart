@@ -36,7 +36,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Ολοκληρωμένο πρόγραμμα σύγχρονης και ασύγχρονης εκπαίδευσης"
-  content = "Με έναν συνδυασμό ζωντανών διαδραστικών διαλέξεων και συνοδευτική εκπαιδευτική πλατφόρμα."
+  content = "Με συνδυασμό ζωντανών διαδραστικών διαλέξεων και συνοδευτικής εκπαιδευτικής πλατφόρμας."
   align = "right"
 
   overlay_color = "#3f51b0"  # An HTML color value.
@@ -55,7 +55,7 @@ height = "calc(100vh - 70px)"
 
   overlay_color = "#3f51b0"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   cta_label = "Δήλωση ενδιαφέροντος"
   cta_url = "#form"
