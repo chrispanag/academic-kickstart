@@ -104,7 +104,7 @@ phone = "+30 210 9949793"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Δευτέρα - Παρασκευή, 10:00 με 14:00"]
+office_hours = ["Δευτέρα, Τετάρτη, Πέμπτη, 10:00-14:00 και 17:00-20:00", "Τρίτη, Παρασκευή 19:30-21:30"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
