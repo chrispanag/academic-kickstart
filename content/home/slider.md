@@ -30,7 +30,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Δήλωση ενδιαφέροντος"
-  cta_url = "#form"
+  cta_url = "#form_disabled"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 
@@ -44,7 +44,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   cta_label = "Δήλωση ενδιαφέροντος"
-  cta_url = "#form"
+  cta_url = "#form_disabled"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 
@@ -58,7 +58,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   cta_label = "Δήλωση ενδιαφέροντος"
-  cta_url = "#form"
+  cta_url = "#form_disabled"
   cta_icon_pack = "fas"
   cta_icon = "edit"
 +++

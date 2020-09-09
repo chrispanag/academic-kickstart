@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Δήλωση Ενδιαφέροντος"
-  url = "#form"
+  url = "#form_disabled"
   weight = 30
 
 [[main]]
