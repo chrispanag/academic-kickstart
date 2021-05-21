@@ -12,7 +12,7 @@ subtitle = "Ο μαθητής, σε όλη τη διάρκεια του προγ
   icon = "users"
   icon_pack = "fas"
   name = "Ζωντανά Μαθήματα"
-  description = "**3 ώρες εξ αποστάσεως, ζωντανών μαθημάτων, την εβδομάδα** μέσω της πλατφόρμας [WebEx](https://www.webex.com)."
+  description = "**3 ώρες εξ αποστάσεως, ζωντανών μαθημάτων, την εβδομάδα** μέσω της πλατφόρμας [Zoom](https://zoom.us)."
   
 [[feature]]
   icon = "sitemap"
