@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "calc(100vh - 70px)"
+height = "calc(100vh - 70px); background-position:center; background-repeat: no-repeat; background-size: cover"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -22,7 +22,7 @@ height = "calc(100vh - 70px)"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "slider1.webp"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
@@ -39,7 +39,7 @@ height = "calc(100vh - 70px)"
   content = "Με συνδυασμό ζωντανών εξ αποστάσεως διαδραστικών μαθημάτων και συνοδευτικής εκπαιδευτικής πλατφόρμας."
   align = "right"
 
-  overlay_color = "#3f51b0"  # An HTML color value.
+  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "Eksofillo_04.webp"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
@@ -53,7 +53,7 @@ height = "calc(100vh - 70px)"
   content = "Προσαρμοσμένες πλήρως στο ηλεκτρονικό περιβάλλον."
   align = "right"
 
-  overlay_color = "#3f51b0"  # An HTML color value.
+  # overlay_color = "#666"  # An HTML color value.
   overlay_img = "books.webp"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 

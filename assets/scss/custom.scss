@@ -1,4 +1,23 @@
 .portrait-title h2 {
-    word-wrap: normal;
-    word-break: normal;
+  word-wrap: normal;
+  word-break: normal;
+}
+
+.home-section.wg-slider {
+  padding: 0;
+  animation: none;
+  animation-delay: unset;
+}
+
+.carousel-inner .wg-hero {
+  animation: none;
+  clear: none;
+}
+
+// .powered-by {
+//   display: none;
+// }
+
+.site-footer > p:nth-child(2) {
+  display: none;
 }
