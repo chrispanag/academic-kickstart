@@ -7,47 +7,27 @@ weight = 95  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = '5000'
+interval = false
 
-height = '40vh'
+height = '50vh'
 
-
-[[item]]
-  title = ""
-  content = "<br/><br/><i>Η βαθιά γνώση του αντικειμένου, η οργάνωση, η μεθοδικότητα και το ειλικρινές ενδιαφέρον του κ. Παναγιωτακόπουλου δημιουργούν μια σχέση εμπιστοσύνης που μου εξασφαλίζει τη σιγουριά ότι θα πετύχω όλους τους στόχους μου!</i><br/><br/>Στέλλα"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#2C2B82"  # An HTML color value.relative to your `static/img/` folder.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [[item]]
   title = ""
-  content = "<br/><br/><i>Ο τρόπος του μαθήματος σε κινητοποιεί να δουλέψεις για τους στόχους σου, ενώ οι συζητήσεις, οι εργασίες και οι μαγνητοσκοπήσεις κάνουν τη μάθηση πολύπλευρη . Εμπνέουν έτσι ασφάλεια και σιγουριά και η όρεξη για δουλειά δεν σταματά ποτέ!</i><br/><br/>Ελίνα"
+  content = "<img class=test-image src=/stella.png/><i class=test-text>Η βαθιά γνώση του αντικειμένου, η οργάνωση, η μεθοδικότητα και το ειλικρινές ενδιαφέρον του κ. Παναγιωτακόπουλου δημιουργούν μια σχέση εμπιστοσύνης που μου εξασφαλίζει τη σιγουριά ότι θα πετύχω όλους τους στόχους μου!</i><br/><br/>Στέλλα"
   align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#2C2B82"  # An HTML color value.relative to your `static/img/` folder.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [[item]]
   title = ""
-  content = "<i>Αγάπησα περισσότερο τη φυσική, έμαθα πως να δουλεύω αποδοτικότερα στην καθημερινότητά μου & συνειδητοποίησα την σημασία της επανάληψης για την επιτυχία. Χαίρομαι πολύ που συμμετέχω σε αυτό το πρόγραμμα & που γνώρισα τον κ. Παναγιωτακόπουλο, ο οποίος με βοήθησε πάρα πολύ στην φετινή μου προετοιμασία. Είναι ένα πρόγραμμα το οποίο θα συνιστούσα ανεπιφύλακτα σε κάθε μαθητή & μαθήτρια που ενδιαφέρεται για τη φυσική & έχει υψηλούς στόχους για το μέλλον.</i><br/><br/>Μιχάλης"
+  content = "<img class=test-image src=/mixalis.png/><i class=test-text>Αγάπησα περισσότερο τη φυσική, έμαθα πως να δουλεύω αποδοτικότερα στην καθημερινότητά μου & συνειδητοποίησα την σημασία της επανάληψης για την επιτυχία. Χαίρομαι πολύ που συμμετέχω σε αυτό το πρόγραμμα & που γνώρισα τον κ. Παναγιωτακόπουλο, ο οποίος με βοήθησε πάρα πολύ στην φετινή μου προετοιμασία.</i><br/><br/>Μιχάλης"
   align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_color = "#2C2B82"  # An HTML color value.relative to your `static/img/` folder.s
 
-  # Overlay a color or image (optional).
+[[item]]
+  title = ""
+  content = "<br/><br/><br/><i>Ο τρόπος του μαθήματος σε κινητοποιεί να δουλέψεις για τους στόχους σου, ενώ οι συζητήσεις, οι εργασίες και οι μαγνητοσκοπήσεις κάνουν τη μάθηση πολύπλευρη . Εμπνέουν έτσι ασφάλεια και σιγουριά και η όρεξη για δουλειά δεν σταματά ποτέ!</i><br/><br/>Ελίνα"
+  align = "center"  # Choose `center`, `left`, or `right`.
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#2C2B82"  # An HTML color value.relative to your `static/img/` folder.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
 +++

@@ -21,3 +21,14 @@
 .site-footer > p:nth-child(2) {
   display: none;
 }
+
+.test-image {
+  border-radius: 50%;
+  max-width: 20%;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.test-text {
+  display: inline-block;
+}
