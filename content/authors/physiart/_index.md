@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Educational Psychology
     institution: University of Nicosia
-    year: 2019 - 2022
+    year: 2022
   - course: MSc in Digital Education
     institution: University of Edinburgh
     year: 2017
